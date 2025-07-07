@@ -13,3 +13,9 @@ console.log(myArr.indexOf(36));
 console.log(myArr);
 console.log(newArr);
 console.log(typeof newArr);
+console.log("A",myArr)
+const see=myArr.slice(1,3)
+console.log(see);
+console.log("B",myArr);
+
+
